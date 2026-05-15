@@ -19,7 +19,7 @@ B-Vitamins (B3, B5, B6, B12) — Full energy complex
 
 Zero Sugar — Because kings don’t need that weak shit
 
-# Just a clean white Monster Ultra and a strong reminder that your mindset is the real wealth.
+Just a clean white Monster Ultra and a strong reminder that your mindset is the real wealth.
 
 # Features:
 Pure black aesthetic
