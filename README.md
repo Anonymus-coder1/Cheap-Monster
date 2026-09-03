@@ -12,7 +12,7 @@ Caffeine: 160mg (32mg/100ml) — Enough to send you to another dimension 🔥
 
 Taurine: 2000mg — The classic amino acid that keeps you going
 
-L-Carnitine: 100mg — Fat burning support
+L-Carnitine: 1000mg — Fat burning support
 Ginseng Extract: 20mg
 
 B-Vitamins (B3, B5, B6, B12) — Full energy complex
