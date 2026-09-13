@@ -1,0 +1,23 @@
+Signature-Version: 1.0
+Created-By: Android Gradle 8.0.2
+SHA1-Digest-Manifest: PqieX3SyK46ErgM1mCLzB9qnVL0=
+X-Android-APK-Signed: 2,3
+
+Name: AndroidManifest.xml
+SHA1-Digest: /t8UvEnUT0/dF45lrx7jpuX5HAA=
+
+Name: classes.dex
+SHA1-Digest: DvLxJqAyt/eD9Gt2Jz7lpygawtc=
+
+Name: res/drawable/ic_launcher.png
+SHA1-Digest: eYKWGjFVxz06z9IR41z/rfoS/mY=
+
+Name: res/drawable/monster.png
+SHA1-Digest: gv0tVyS1LvjxXbZE3sTtQ8rEs18=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: dBzNyX6hzI/W27RrDjD7vZu7mB0=
+
+Name: resources.arsc
+SHA1-Digest: jC6NTmR4CwkSJQYtkReDdkLlOQI=
+
